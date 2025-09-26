@@ -4,8 +4,6 @@
 ---
 
 ### About Me
-- 🎓 Dual B.S. in **Mathematics & Computer Science** @ The University of the South (Sewanee, TN)
-- 📈  **Graduating May 2026**
 - 💡 Interested in RAG systems, geospatial AI, and performant full-stack apps
 - 💬 Open to collabs, internships, and tech chats
 

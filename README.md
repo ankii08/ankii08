@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/ankitda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="REPLACE_WITH_PORTFOLIO_URL" target="_blank">
+  <a href="https://www.ankitd.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:Ankit.Das@sewanee.edu">

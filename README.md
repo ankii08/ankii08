@@ -15,7 +15,7 @@
   <a href="https://www.ankitd.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:Ankit.Das@sewanee.edu">
+  <a href="mailto:dasa0@sewanee.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

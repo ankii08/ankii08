@@ -53,4 +53,4 @@ Dual B.S. in **Mathematics & Computer Science** · *Graduating May 2026*
 -->
 
 ### Contact
-📫 Ankit.Das@sewanee.edu · 🌐 https://ankitd.com
+📫 dasa0@sewanee.edu · 🌐 https://ankitd.com

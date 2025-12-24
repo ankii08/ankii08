@@ -40,7 +40,6 @@ Dual B.S. in **Mathematics & Computer Science** · *Graduating May 2026*
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs/GPT--4-000000?style=flat&logo=openai&logoColor=white" />
 </p>
 
 

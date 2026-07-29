@@ -5,7 +5,6 @@
 
 ### About Me
 -  Interested in RAG systems, geospatial AI, and performant full-stack apps
-- Open to collabs, internships, and tech chats
 
 ### Connect
 <p>

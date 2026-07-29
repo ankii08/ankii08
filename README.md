@@ -49,6 +49,12 @@ Dual B.S. in **Mathematics & Computer Science** · *Graduating May 2026*
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GH_USERNAME&layout=compact&theme=transparent" />
 </p>
 -->
+### Open-source
+- **PyTorch** — added a `${hostname}` macro to `torchrun` log-line prefixes so
+  multi-node crashes can be traced back to the host that produced them.
+  PR [#191265](https://github.com/pytorch/pytorch/pull/191265) · landed in
+  [`38e971a`](https://github.com/pytorch/pytorch/commit/38e971a) · closed a
+  3-year-old `issue`.
 
 ### Contact
 📫 dasa0@sewanee.edu · 🌐 https://ankitd.com

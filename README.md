@@ -55,6 +55,11 @@ Dual B.S. in **Mathematics & Computer Science** · *Graduating May 2026*
   PR [#191265](https://github.com/pytorch/pytorch/pull/191265) · landed in
   [`38e971a`](https://github.com/pytorch/pytorch/commit/38e971a) · closed a
   3-year-old `issue`.
+- **PyTorch** — added `--print-completion` to `torchrun` using a lazily-imported
+  optional dependency (`shtab`) to generate shell completion scripts on demand.
+  PR [#191289](https://github.com/pytorch/pytorch/pull/191289) · landed in
+  [`3113666`](https://github.com/pytorch/pytorch/commit/3113666) · closed issue
+  [#90509](https://github.com/pytorch/pytorch/issues/90509).
 
 ### Contact
 📫 dasa0@sewanee.edu · 🌐 https://ankitd.com

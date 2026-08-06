@@ -21,7 +21,7 @@
 
 ### Education
 **The University of the South — Sewanee, TN**  
-Dual B.S. in **Mathematics & Computer Science** · *Graduating May 2026*
+Dual B.S. in **Mathematics & Computer Science** 
 
 ### Tech Stack
 <p>
